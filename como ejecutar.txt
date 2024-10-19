@@ -1,0 +1,2 @@
+1. Abrin la carpeta con visual estudio code
+2. ejecutar node inventario.js para ejecutar y visualizar el proceso de observadores
